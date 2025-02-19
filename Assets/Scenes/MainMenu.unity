@@ -318,7 +318,7 @@ PrefabInstance:
     - target: {fileID: 308368403322942080, guid: fe1c0e724a6a7b24b971c59320103bf8, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 089e6dda4b223a148b3894401220e239, type: 3}
+      objectReference: {fileID: 21300000, guid: bc5560349610ff24ea3c4cb98678396f, type: 3}
     - target: {fileID: 1091913612040751871, guid: fe1c0e724a6a7b24b971c59320103bf8, type: 3}
       propertyPath: m_Name
       value: AppButton (2)
