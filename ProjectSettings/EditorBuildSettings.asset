@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/PoolFloaties/Scenes/PoolFloatiesV2.unity
     guid: 05f56dfd05964b14d9704b06d03ce141
+  - enabled: 1
+    path: Assets/EloMate/Scenes/EloMate.unity
+    guid: df6db3214a6be494fb518e1c4df8fa05
   m_configObjects: {}
