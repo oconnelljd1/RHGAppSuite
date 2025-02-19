@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: ade463b9dd030d747b9f35a10881a2ed
   - enabled: 1
-    path: Assets/Scenes/DireFleetCalculator.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/DireFleetCalculator/Scenes/DireFleetCalculatorV2.unity
+    guid: c4675348c2dab2545ac67de784f34990
   - enabled: 1
     path: Assets/Scenes/PoolFloaties.unity
     guid: 83acdeb19f670c84eb21d98714a1ad87
